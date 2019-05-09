@@ -8,7 +8,7 @@ Magic Mirror er raspberry pi sem er tengt við skjá sem er á bak við double s
 ### Raspberry pi
 Til að starta magicmirror þar að gera
   
-það virkaði ekki þannig við þurftum að reinstalla stýrikerfinu
+ef það virkar ekki þarf að reinstalla stýrikerfinu
 ### Myndavél
 Myndavéla module-ið sem var notað: https://github.com/alexyak/camera<br>
 Til að setja upp myndavélina þarf að clone myndavéla module inní modules folderinn í MagicMirror's code location með því að nota:
