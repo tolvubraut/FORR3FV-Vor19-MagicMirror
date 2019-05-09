@@ -6,11 +6,12 @@ Magic Mirror er raspberry pi sem er tengt við skjá sem er á bak við double s
 ## Tæknileg atriði
 
 ### Raspberry pi
+Til að starta magicmirror þar að gera
+  
+það virkaði ekki þannig við þurftum að reinstalla stýrikerfinu
 ### Myndavél
-### Sonar Sensors
+Myndavéla module-ið sem var notað: https://github.com/alexyak/camera
+Til að setja upp myndavélina þarf að clone myndavéla module inní modules folderinn í MagicMirror's code location með því að nota:
+  git clone https://github.com/alexyak/camera.git
 ### The Frame
 
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
