@@ -15,5 +15,6 @@ Til að setja upp myndavélina þarf að clone myndavéla module inní modules f
 ```
 git clone https://github.com/alexyak/camera.git
 ```
+Til að install-a node.js dependencies það að fara í camera sub folder: ```cd camera``` og gera ```npm install```
 ### The Frame
 
