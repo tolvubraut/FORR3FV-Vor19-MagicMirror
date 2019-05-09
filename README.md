@@ -12,6 +12,8 @@ Til að starta magicmirror þar að gera
 ### Myndavél
 Myndavéla module-ið sem var notað: https://github.com/alexyak/camera<br>
 Til að setja upp myndavélina þarf að clone myndavéla module inní modules folderinn í MagicMirror's code location með því að nota:
-      git clone https://github.com/alexyak/camera.git
+```
+git clone https://github.com/alexyak/camera.git
+```
 ### The Frame
 
