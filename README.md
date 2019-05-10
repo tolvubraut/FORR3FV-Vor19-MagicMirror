@@ -1,6 +1,6 @@
-# Magic mirror - Viðmótsforritun
+# MagicMirror - Viðmótsforritun
 
-Magic Mirror er raspberry pi sem er tengt við skjá sem er á bak við double sided mirror.
+MagicMirror er Raspberry Pi sem er tengt við skjá sem er á bak við double sided mirror.
 Það er hægt að nota það sem spegil og svo getur maður bætt við auka upplýsingum á skjáinn svo sem hvað klukkan er, veður, fréttir og fleira. Það er einnig hægt að bæta við leiðum til að get skipt á milli blaðsíða, falið eða sýnt upplýsingar með t.d motion control.
 
 ## Tæknileg atriði
@@ -12,7 +12,7 @@ Til að gera MagicMirror þarf maður að nota einhverja tölvu, Við fengum Ras
 Við byrjuðum að setja stýrikerfi á Pi'inn og það var valið Rasbian með Desktopi  [Raspbian Downloads] [1] svo þurfum við að flasha .iso á micro sd kortið, við notuðum [Balena Etcher][2] til að gera það, Þræl virkaði alltaf. Etcher virkar á Windows,Mac OS og Linux.
 
 ####Installa MagicMirror2
-MagicMirror2 er open source og verður héðan kallað **MagicMirror **eða ~~**mm**~~ 
+MagicMirror2 er open source og verður héðan kallað **MagicMirror** eða ~~**mm**~~ 
 
 Þegar þú ert kominn í Rasbian & Búinn að tengjast netinu þá þarftu að fara í Raspberry settings og enablea SSH með 2 skrefum [SSH step 1][4] og [SSH step 2][5] 
 
