@@ -1,7 +1,7 @@
 # MagicMirror - Viðmótsforritun
 
 MagicMirror er Raspberry Pi sem er tengt við skjá sem er á bak við double sided mirror.
-Það er hægt að nota það sem spegil og svo getur maður bætt við auka upplýsingum á skjáinn svo sem hvað klukkan er, veður, fréttir og fleira. Það er einnig hægt að bæta við leiðum til að get skipt á milli blaðsíða, falið eða sýnt upplýsingar með t.d motion control.
+Það er hægt að nota það sem spegil og svo getur maður bætt við auka upplýsingum á skjáinn svo sem hvað klukkan er, veður, fréttir og fleira.
 
 ## Tæknileg atriði
 
