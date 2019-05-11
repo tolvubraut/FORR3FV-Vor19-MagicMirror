@@ -4,7 +4,6 @@ MagicMirror er Raspberry Pi sem er tengt við skjá sem er á bak við double si
 Það er hægt að nota það sem spegil og svo getur maður bætt við auka upplýsingum á skjáinn svo sem hvað klukkan er, veður, fréttir og fleira. Það er einnig hægt að bæta við leiðum til að get skipt á milli blaðsíða, falið eða sýnt upplýsingar með t.d motion control.
 
 ## Tæknileg atriði
-
 ### Raspberry pi
 Til að gera MagicMirror þarf maður að nota einhverja tölvu, Við fengum Raspbery Pi og því það er keyrt á Linux þá settum við Illuga á það. 
 
@@ -23,7 +22,9 @@ Næst á dagskrá er að fara í Browser/Vafra og fara inná þetta [github][3] 
 bash -c "$(curl -sL https://raw.githubusercontent.com/MichMich/MagicMirror/master/installers/raspberry.sh)"
 ```
 
-Þegar þessi súpa er að malla skaltu ýta á *y* þegar það biður um eitthvað. (Þessi scripta installar Node.Js, updatear systemið, og installar npm og pm2)
+Þegar þessi súpa er að malla skaltu ýta á **y** og **Enter** þegar það biður um eitthvað. (Þessi scripta installar Node.Js, updatear systemið, og installar npm og pm2)
+
+MagicMirrorinn mun alltaf kveikja á sér þegar Raspberry Pi bootar. Mæli með að nota ssh fyrir configið.
 
 Þetta var ekki svo erfitt er það nokkuð ?
 
@@ -51,7 +52,7 @@ Númer 2 var aðeins meiri dólgur en ef þú skoðar [configið][7] okkar og sk
 
 Númer 3 kemur í ljós að þú þarft að vera með fully updated system getur notað `sudo apt-get update` og síðan `sudo apt-get upgrade` 
 
-Númer 4 þurftum að installa `v4l-utils` og `guvcview`
+Númer 4 þegar við tengdum myndavélna þá kom ekkert ljós, við prufuðum að gera `dmesg|tail` og sáum að hún fékk error að initilizea. þurftum að installa `v4l-utils` og `guvcview`
 
 
 [1]: https://www.raspberrypi.org/downloads/raspbian/
@@ -60,7 +61,7 @@ Númer 4 þurftum að installa `v4l-utils` og `guvcview`
 [4]:https://www.raspberrypistarterkits.com/wp-content/uploads/2017/11/Using-the-Graphical-User-Interface.png
 [5]: https://www.raspberrypistarterkits.com/wp-content/uploads/2017/11/Interfaces%E2%80%99-and-%E2%80%98SSH.png
 [6]: https://www.chiark.greenend.org.uk/~sgtatham/putty/
-[7]: illugi.com/fixthis
+[7]: https://github.com/SighvaturSveinsson/VidmodsFor/blob/master/config.js
 
 ### Myndavél
 Myndavéla module-ið sem var notað `https://github.com/alexyak/camera`<br>
@@ -89,3 +90,4 @@ Til að install-a node.js dependencies það að fara í camera sub folder: ```c
 ```
 ### The Frame
 
+### Myndir og video
