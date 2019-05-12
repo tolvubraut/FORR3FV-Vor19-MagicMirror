@@ -108,6 +108,7 @@ Ramminn var settur í gegnum Laser cutter vél og kom út nær fullkomið. Skjá
 
 
 ### Myndir og video
+Video af MagicMirror að virka með camera moduleinu í gangi.
 
 [![VideoOfMM](http://img.youtube.com/vi/wMNC-4P5goQ/0.jpg)](http://www.youtube.com/watch?v=wMNC-4P5goQ "Video Dæmi")
 
