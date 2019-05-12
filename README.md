@@ -88,6 +88,24 @@ Til að install-a node.js dependencies það að fara í camera sub folder: ```c
     }
 },
 ```
-### The Frame
+### Rammi
+#### Tæknileg atriði og útlit
+Skjárinn var mældur sem 411 x 333 x 24 (mm) og myndavélin sem 94 x 24 x 29 (mm). Ramminn var gerður í Inkscape og exportaður.
+<br><br>
+<img src="https://i.ibb.co/tzpQDqq/mirror-on-inkscape.png" width=50%>
+<br>
+Ramminn er úr viðri, og var notað Laser cutter vél til þess að skera í form, svo pússað og sagað til að leiðrétta litlu mælingar.
+Ramminn er gerður sem stretch-fit til þess að setja rammann á skjáinn. Fyrir ofan var bætt við smá gat til þess að festa myndavélina á rammann. 
+#### Áætlun og Aðferðin
+Fyrst var áætlað að 3D prenta rammann í nokkur stykki og svo sett það saman. Þá var hann gerður í gegnum Autodesk inventor. Það var allt komið í lag þangað til það var týnt ramma file-ið, þá þurfti að búa það til aftur. Þegar það var gert, var ekki mikið eftir og var biðið á meðan raspberry pi var unnið.
+
+Þá kemur í ljós að 3D prentun er ekki rétta leiðin til þess að gera rammann, þar sem ramminn verður þá of brotthættur og þarf þá að setja fleiri auka hluti til þess að fá það til þess að virka, auk þess voru stykkin of mörg til þess að fá það til þess að setja þá saman vel. Þá var íhugað að nota plexiglass eða Laser cutter/viður. Loks var það valið að nota viðrið. Að breyta um efni og tæki breytti útlitinu margfalt, þar sem það var ekki hægt (eða hafði aldrei notað þetta forrit) að gera þau sömu mynstur á rammann án þess að eyða of miklan tíma í það, og það var ekki mikill tími var eftir. Fyrst var notað `https://www.tinkercad.com/` til þess að byggja upp rammann aftur
+<br><br>
+<img src="https://i.ibb.co/y83DgSY/mirror-thing.png" width=50%>
+<br>
+en svo komu vandamál með því vefforriti, og þurfti að búa það til aftur upp á nýtt í Inkscape.
+Ramminn var settur í gegnum Laser cutter vél og kom út nær fullkomið. Skjárinn var samt með nokkrar brúnir í hornunum sem var ekki tekið eftir þegar hann var mældur fyrst, og þurfti þá að saga og pússa rammann svo hann gæti passað á skjáinn.
+
+
 
 ### Myndir og video
