@@ -107,5 +107,7 @@ en svo komu vandamál með því vefforriti, og þurfti að búa það til aftur
 Ramminn var settur í gegnum Laser cutter vél og kom út nær fullkomið. Skjárinn var samt með nokkrar brúnir í hornunum sem var ekki tekið eftir þegar hann var mældur fyrst, og þurfti þá að saga og pússa rammann svo hann gæti passað á skjáinn.
 
 
-
 ### Myndir og video
+
+[![VideoOfMM](http://img.youtube.com/vi/wMNC-4P5goQ/0.jpg)](http://www.youtube.com/watch?v=wMNC-4P5goQ "Video Dæmi")
+
