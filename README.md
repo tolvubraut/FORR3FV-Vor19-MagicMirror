@@ -62,7 +62,7 @@ Númer 4 þegar við tengdum myndavélna þá kom ekkert ljós, við prufuðum a
 [5]: https://www.raspberrypistarterkits.com/wp-content/uploads/2017/11/Interfaces%E2%80%99-and-%E2%80%98SSH.png
 [6]: https://www.chiark.greenend.org.uk/~sgtatham/putty/
 [7]: https://github.com/SighvaturSveinsson/VidmodsFor/blob/master/config.js
-[8]: https://imgur.com/a/FWPG5Ut
+[8]: https://imgur.com/h17zXAj
 ### Myndavél
 Myndavéla module-ið sem var notað `https://github.com/alexyak/camera`<br>
 Til að setja upp myndavélina þarf að clone myndavéla module inní modules folderinn í MagicMirror's code location með því að nota:
@@ -111,5 +111,5 @@ Ramminn var settur í gegnum Laser cutter vél og kom út nær fullkomið. Skjá
 Video af MagicMirror að virka með camera moduleinu í gangi.
 
 [![VideoOfMM](http://img.youtube.com/vi/wMNC-4P5goQ/0.jpg)](http://www.youtube.com/watch?v=wMNC-4P5goQ "Video Dæmi")
-[Mynda Þráður][8]
+![Mynd 1][8]
 
