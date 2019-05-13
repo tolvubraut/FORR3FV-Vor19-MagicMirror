@@ -112,4 +112,5 @@ Video af MagicMirror að virka með camera moduleinu í gangi.
 
 [![VideoOfMM](http://img.youtube.com/vi/wMNC-4P5goQ/0.jpg)](http://www.youtube.com/watch?v=wMNC-4P5goQ "Video Dæmi")
 ![Mynd 1](https://imgur.com/h17zXAj.jpg)
-
+![Mynd 2](https://imgur.com/Pxu0wJE.jpg)
+![Mynd 3](https://imgur.com/goO6uBG.jpg)
