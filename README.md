@@ -92,7 +92,7 @@ Til að install-a node.js dependencies það að fara í camera sub folder: ```c
 #### Tæknileg atriði og útlit
 Skjárinn var mældur sem 411 x 333 x 24 (mm) og myndavélin sem 94 x 24 x 29 (mm). Ramminn var gerður í Inkscape og exportaður.
 <br><br>
-<img src="https://i.ibb.co/tzpQDqq/mirror-on-inkscape.png" width=50%>
+![MyndAfInkScape](https://i.ibb.co/tzpQDqq/mirror-on-inkscape.png)
 <br>
 Ramminn er úr viðri, og var notað Laser cutter vél til þess að skera í form, svo pússað og sagað til að leiðrétta litlu mælingar.
 Ramminn er gerður sem stretch-fit til þess að setja rammann á skjáinn. Fyrir ofan var bætt við smá gat til þess að festa myndavélina á rammann. 
