@@ -61,7 +61,7 @@ Númer 4 þegar við tengdum myndavélna þá kom ekkert ljós, við prufuðum a
 [4]:https://www.raspberrypistarterkits.com/wp-content/uploads/2017/11/Using-the-Graphical-User-Interface.png
 [5]: https://www.raspberrypistarterkits.com/wp-content/uploads/2017/11/Interfaces%E2%80%99-and-%E2%80%98SSH.png
 [6]: https://www.chiark.greenend.org.uk/~sgtatham/putty/
-[7]: https://github.com/SighvaturSveinsson/VidmodsFor/blob/master/config.js
+[7]: https://github.com/tolvubraut/FORR3FV-Vor19-MagicMirror/blob/master/config.js
 [8]: https://imgur.com/h17zXAj
 ### Myndavél
 Myndavéla module-ið sem var notað `https://github.com/alexyak/camera`<br>
